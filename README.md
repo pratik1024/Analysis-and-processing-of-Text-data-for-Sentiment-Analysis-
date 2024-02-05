@@ -25,8 +25,9 @@ This project focuses on conducting data analytics on diverse URLs to perform sen
   - `Output Data Structure.xlsx`: Specifies the format for the output variables.
 
 - **Code Files:**
-  - `data_extraction.py`: Python script for extracting data from URLs using Beautiful Soup.
-  - `text_analysis.py`: Python script for conducting sentiment analysis and computing text variables.
+  `Sentiment_Analysis_Text_Data.ipynb`:
+  - Python script for extracting data from URLs using Beautiful Soup.
+  -  Python script for conducting sentiment analysis and computing text variables.
 
 ## Instructions
 
@@ -34,11 +35,8 @@ This project focuses on conducting data analytics on diverse URLs to perform sen
    - Ensure you have Python installed.
    - Install required libraries using `pip install -r requirements.txt`.
 
-2. **Data Extraction:**
-   - Run `data_extraction.py` to extract textual data from the specified URLs.
-
-3. **Text Analysis:**
-   - Run `text_analysis.py` to perform sentiment analysis and compute text variables.
+2. **Data Extraction:** & **Text Analysis:**
+   - Run `Sentiment_Analysis_Text_Data.ipynb` to extract textual data from the specified URLs and to perform sentiment analysis and compute text variables.
 
 4. **Output:**
    - Review the output files for the computed variables, following the structure outlined in `Output Data Structure.xlsx`.
